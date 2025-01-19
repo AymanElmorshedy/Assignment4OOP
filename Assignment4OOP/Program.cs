@@ -45,10 +45,30 @@
             #endregion
 
             #region Q04
-            Employee employee = new Employee();
-            employee.Print();
-            Employee employee2 = new Maneger();
-            employee2.Print();
+            //Employee employee = new Employee();
+            //employee.Print();
+            //Employee employee2 = new Maneger();
+            //employee2.Print();
+            #endregion
+
+            #region Q05
+            BaseClass baseClass = new BaseClass();
+            baseClass.Print();
+
+            BaseClass base2 = new DrivedClass1();
+            base2.Print();//dynamic polymorphism -dynamic override-dynamic binding -late binding
+                          //runtime 
+                          //This myfun02 from child typeB and A :10
+                          //MyFun02() viryual method overrided using (override)
+                          //resolve on run time based on object type
+
+            BaseClass base3 = new DrivedClass2();
+            base3.Print();//static polymorphism -static binding-early binding vased on referance type
+                          //compilation time
+                          //MyFun01 method non virtual overide using(new)
+                          //resolve in compile time based on referance type
+
+
             #endregion
 
 
