@@ -65,7 +65,7 @@
             //BaseClass base3 = new DrivedClass2();
             //base3.Print();//static polymorphism -static binding-early binding vased on referance type
             //              //compilation time
-            //              //MyFun01 method non virtual overide using(new)
+                          //MyFun01 method non virtual overide using(new)
             //              //resolve in compile time based on referance type
 
 
