@@ -32,17 +32,26 @@
             #endregion
 
             #region Q03
-            ComplexNumber c1=new ComplexNumber();
-            ComplexNumber c2=new ComplexNumber();
-            c1.Real = 2;
-            c1.Imagine = 3;
-            c2.Real = 1;
-            c2.Imagine = 2;
-            Console.WriteLine(c1);
-            Console.WriteLine(c2);
-            Console.WriteLine(c1+c2);
-            Console.WriteLine(c1-c2);
+            //ComplexNumber c1=new ComplexNumber();
+            //ComplexNumber c2=new ComplexNumber();
+            //c1.Real = 2;
+            //c1.Imagine = 3;
+            //c2.Real = 1;
+            //c2.Imagine = 2;
+            //Console.WriteLine(c1);
+            //Console.WriteLine(c2);
+            //Console.WriteLine(c1+c2);
+            //Console.WriteLine(c1-c2);
             #endregion
+
+            #region Q04
+            Employee employee = new Employee();
+            employee.Print();
+            Employee employee2 = new Maneger();
+            employee2.Print();
+            #endregion
+
+
             #endregion
         }
     }
