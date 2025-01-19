@@ -21,7 +21,7 @@
             //Console.WriteLine(rectangel1.Height);
             //Console.WriteLine(rectangel1.Width);
             //Console.WriteLine(*****************************************);
-            //Rectangel rectangel2 = new Rectangel(1,2);
+            //Rectangel rectangel2 = new Rectangel(1, 2);
             //Console.WriteLine(rectangel2.Height);
             //Console.WriteLine(rectangel2.Width);
             //Console.WriteLine(******************************************);
