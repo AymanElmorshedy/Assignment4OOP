@@ -23,6 +23,10 @@
             Console.WriteLine(calculator.Sum(a,b));
 
             #endregion
+
+            #region Q2
+
+            #endregion
             #endregion
         }
     }
