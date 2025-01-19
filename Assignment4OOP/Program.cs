@@ -7,12 +7,12 @@
             #region Part01
             #region Q1
 
-            //int a=10,b=20,c=30;
+            //int a = 10, b = 20, c = 30;
             //double x = 2.5, y = 2.5;
             //Calculator calculator = new Calculator();
             //Console.WriteLine(calculator.Sum(a, b, c));
             //Console.WriteLine(calculator.Sum(x, y));
-            //Console.WriteLine(calculator.Sum(a,b));
+            //Console.WriteLine(calculator.Sum(a, b));
 
             #endregion
 
